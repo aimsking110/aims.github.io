@@ -148,3 +148,7 @@ nav img{
     font-weight:600 ;
 }
 
+.icons .fa{
+    margin:  0 13px;
+    cursor: pointer;
+}
