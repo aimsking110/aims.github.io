@@ -122,11 +122,7 @@ nav img{
     margin: 100px auto;
     min-height: 30vh;
     width: 90%;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/contact.png);
-    background-position: center;
-    background-size: cover;
-    border-radius: 10px;
-    text-align: center ;
+      text-align: center ;
     padding:  100px 0;
     position: relative;
 }
