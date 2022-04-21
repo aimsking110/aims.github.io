@@ -118,6 +118,7 @@ nav img{
 /*---------contact-us----------*/
 .contactus
 {
+    color: #fff;
     margin: 100px auto;
     min-height: 30vh;
     width: 90%;
@@ -138,5 +139,9 @@ nav img{
 
 /*------------foooooter------*/
 .footer{
-    
+border: 0px;
+width: 50%;
+padding-left: 15%;
+align-items: center;
+
 }
