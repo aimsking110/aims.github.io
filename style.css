@@ -139,10 +139,12 @@ nav img{
 
 /*------------foooooter------*/
 .footer{
-    color: #fff;
-border: 0px;
-width: 20%;
-padding-left: 15%;
-align-items: center;
+    color: black;
+    border: 0px;
+    width: 20%;
+    padding-left: 15%;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
 
 }
