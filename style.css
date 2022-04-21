@@ -137,8 +137,18 @@ nav img{
     color: #fff;
 }
 
-/*------------foooooter------*/
 .footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight:600 ;
+}
+/*------------foooooter------*/
+.footer1{
     color: black;
     width: 20%;
     padding-left: 15%;
