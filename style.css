@@ -139,7 +139,7 @@ nav img{
 
 .footer{
     width: 100%;
-    text-align: center;
+    text-align: auto;
     padding: 30px 0;
 }
 .footer h4{
