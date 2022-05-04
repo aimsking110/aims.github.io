@@ -11,6 +11,7 @@
     position: relative;
     min-height: auto;
     width: auto ;
+    color: black;
 }
 table{
     margin-top: auto;
