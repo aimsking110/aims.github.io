@@ -7,6 +7,11 @@
     background-size: cover;
     position: relative;
 }
+.contactus{
+    position: relative;
+    min-height: auto;
+    width: auto ;
+}
 table{
     margin-top: auto;
     margin-bottom: auto;
