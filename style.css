@@ -94,6 +94,7 @@ nav img{
         right: 0;
         text-align: left;
         z-index: 2;
+        color: black;
     }
 }
 .hero-btn{
